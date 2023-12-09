@@ -1,0 +1,3 @@
+Employee(firstName=celine, lastName=ng, email=cel@ng.com, phoneNo=98217583, salary=6666, birthday=Wed Oct 18 00:00:00 SGT 2023, postalCode=234567)
+Employee(firstName=lala, lastName=la, email=lala@la.com, phoneNo=87654321, salary=6666, birthday=Thu Sep 14 00:00:00 SGT 2023, postalCode=555555)
+Employee(firstName=ceu, lastName=li, email=ce@li.com, phoneNo=98217853, salary=6666, birthday=Thu Aug 10 00:00:00 SGT 2023, postalCode=789067)
